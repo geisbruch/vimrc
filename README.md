@@ -1,1 +1,1 @@
-## Run install.sh to copy the folder
+Run install.sh to copy the folder
